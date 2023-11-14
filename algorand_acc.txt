@@ -1,0 +1,24 @@
+My address: MT5QWH2YWKQLQMDSGCNMEPCDKJLXMBWTRINNHRU3L6R7XZEIA6C2FNWKXU
+My passphrase: suspect attract arrange despair various outside fancy athlete truly gospel reunion include misery identify inject alpha type like space paper young culture humble ability invest
+{
+  addr: 'MT5QWH2YWKQLQMDSGCNMEPCDKJLXMBWTRINNHRU3L6R7XZEIA6C2FNWKXU',
+  sk: Uint8Array(64) [
+    214, 182, 131,  24, 192, 195, 120, 118,  94, 42,  14,
+     75,  55, 153, 112,  39, 215,  70, 194, 129, 14,   7,
+     94, 111, 160, 160, 255, 169, 127, 214, 220, 45, 100,
+    251,  11,  31,  88, 178, 160, 184,  48, 114, 48, 154,
+    194,  60,  67,  82,  87, 118,   6, 211, 138, 26, 211,
+    198, 155,  95, 163, 251, 228, 136,   7, 133
+  ]
+}
+Private Key: {
+  addr: 'MT5QWH2YWKQLQMDSGCNMEPCDKJLXMBWTRINNHRU3L6R7XZEIA6C2FNWKXU',
+  sk: Uint8Array(64) [
+    214, 182, 131,  24, 192, 195, 120, 118,  94, 42,  14,
+     75,  55, 153, 112,  39, 215,  70, 194, 129, 14,   7,
+     94, 111, 160, 160, 255, 169, 127, 214, 220, 45, 100,
+    251,  11,  31,  88, 178, 160, 184,  48, 114, 48, 154,
+    194,  60,  67,  82,  87, 118,   6, 211, 138, 26, 211,
+    198, 155,  95, 163, 251, 228, 136,   7, 133
+  ]
+}
